@@ -4,6 +4,25 @@ layout: default
 
 ## A working essay on the next era of personal finance
 
+### Table of Contents
+
+- [Introduction](#introduction)
+- [Features of an Income Share Agreement](#features-of-an-income-share-agreement)
+  * [Funding Amount](#funding-amount)
+  * [Payback rate](#payback-rate)
+  * [Term Length](#term-length)
+  * [Income Floor](#income-floor)
+  * [Payment Cap](#payment-cap)
+- [Other common provisions](#other-common-provisions)
+  * [Discharge provisions](#discharge-provisions)
+  * [Income verification](#income-verification)
+- [Sample Agreements](#sample-agreements)
+- [The Benefits of Income Share Agreements](#the-benefits-of-income-share-agreements)
+  * [Incentives](#incentives)
+  * [Price Discovery](#price-discovery)
+  * [Insurance](#insurance)
+  * [Conclusion](#conclusion)
+
 ### Introduction
 
 In this post, I want to introduce the idea of income share agreements and define their basic features.
