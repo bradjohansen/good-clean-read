@@ -29,7 +29,7 @@ In this post, I want to introduce the idea of income share agreements and define
 
 Fundamental to the idea of an income share agreement (ISAs) is that the amount of money you owe should be based on the amount of income you earn. In this way, ISAs differ from loans because they do not have a traditional interest rate. Instead, when a student receives funds as part of an ISA, they agree to repay the provider based on a percentage of their future income. 
 
-Interest in ISAs has grown [immensely](https://trends.google.com/trends/explore?date=all&geo=US&q=income%20share%20agreements) in the last five years. Purdue University launched the [Back a Boiler](https://purdue.edu/backaboiler/) program in 2016 to provide ISAs to students as an alternative to private and Parent PLUS student loans. [Lambda School](http://lambdaschoolc.om), a coding school launched in 2016, eschews an up-front tuition in favor of ISAs. 
+Interest in ISAs has grown [immensely](https://trends.google.com/trends/explore?date=all&geo=US&q=income%20share%20agreements) in the last five years. Purdue University launched the [Back a Boiler](https://purdue.edu/backaboiler/) program in 2016 to provide ISAs to students as an alternative to private and Parent PLUS student loans. [Lambda School](http://lambdaschool.com), a coding school launched in 2016, eschews an up-front tuition in favor of ISAs. 
 
 For the purpose of this post, I will refer to the receiver of the initial disbursement of funds as the "student," but that is not to suggest that the only use of income share agreements is for education funding. I will refer to the provider of the initial funds, and recipient of future income share payments, as the "investor". 
 
@@ -59,13 +59,13 @@ Unlike loans, most income share agreements include a provision that restricts th
 
 Another common feature of income share agreements is a payment cap, or maximum repayment obligation. At Lambda School, the payment cap is $30,000. This means that the sum of all income share payments will not exceed $30,000 and if the student reaches the cap, they will have completed their ISA's obligations. The purpose of this provision is to protect students who earn a much larger income than is expected. 
 
-### Other common provisions
+#### Other common provisions
 
-#### Discharge provisions
+##### Discharge provisions
 
 Income share agreements will also include terms that decide how the agreement will be treated in bankruptcy.
 
-#### Income verification
+##### Income verification
 
 It is common for the method of income verification to be included in the contract as well. Today, students are typically required to submit a pay stub from their employer, link their primary bank account to the ISA service provider and submit their annual tax returns for reconciliation.
 
