@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## A working essay on the next era of personal finance
+## Coaches that invest in you
 
 ### Table of Contents
 
-- [Introduction](#introduction)
-- [Features of an Income Share Agreement](#features-of-an-income-share-agreement)
+- [Our Services](#our-services)
+- [How much does it cost?](#how-much-does-it-cost)
   * [Funding Amount](#funding-amount)
   * [Payback rate](#payback-rate)
   * [Term length](#term-length)
@@ -22,8 +22,9 @@ layout: default
   * [Price Discovery](#price-discovery)
   * [Insurance](#insurance)
   * [Conclusion](#conclusion)
+ - [Contact Us](#contact-us)
 
-### Introduction
+### Our Services
 
 In this post, I want to introduce the idea of income share agreements and define their basic features.
 
@@ -33,7 +34,7 @@ Interest in ISAs has grown [immensely](https://trends.google.com/trends/explore?
 
 For the purpose of this post, I will refer to the receiver of the initial disbursement of funds as the "student," but that is not to suggest that the only use of income share agreements is for education funding. I will refer to the provider of the initial funds, and recipient of future income share payments, as the "investor". 
 
-### Features of an Income Share Agreement
+### How much does it cost?
 
 Income share agreements typically include the following elements: the funding amount, the payback rate, the income floor, the payment cap, and the term length.
 
@@ -112,6 +113,10 @@ In all income share agreements, the student's payment obligation will adjust wit
 #### Conclusion
 
 Income share agreements provide students with flexibility, financial stability, and information. They are more flexible than loans, because payments fluctuate with the student's ability to pay. This enhances their long-term financial stability, especially when combined with a strong income floor. Because of this flexibility, investors have an incentive to accurately predict a student's future income  in order to determine the price of a new income share agreement. This price convey's valuable information to the student about their earning potential, given their current choices, which may lead them to choose more prosperous careers.
+
+### Contact Us
+
+<div class="typeform-widget" data-url="https://bradleyjohansen.typeform.com/to/tzQMZf" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=tzQMZf&utm_source=typeform.com-15293271-Free&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
 
 
 {% include sharing.html %}
