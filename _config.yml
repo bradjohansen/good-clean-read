@@ -1,8 +1,8 @@
 # Site settings
-title: Income Share Agreements
-tag_text: Income Share Agreements
-description: An essay on the next era of personal finance
-url: "https://vigilant-morse-ba89ce.netlify.com/"
+title: PPL VC, Inc.
+tag_text: PPL VC, Inc.
+description: Career coaches that work for you
+url: "https://pplvc.com"
 baseurl: ""
 
 font-awesome-include: true # make this false if you don't need font-awesome
