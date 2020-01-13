@@ -6,8 +6,8 @@ layout: default
 
 - [Our Services](#our-services)
 - [How much does it cost?](#how-much-does-it-cost)
-  * [Funding Amount](#funding-amount)
- - [Contact Us](#contact-us)
+- [Meet PPL VC, Inc.](#meet-ppl-vc-inc)
+- [Contact Us](#contact-us)
 
 ### Our Services
 
@@ -28,6 +28,8 @@ Income share agreements typically include the following elements: the funding am
 This is the amount of funds provided by the investor to the student at the creation of the ISA. The funds could be used for anything that might increase your future income: tuition payments, a living stipend, or a project. The funding amount is different than the principal in a traditional loan. In a traditional loan, the borrower must payback the lender the principal plus interest. In an ISA, there is no obligation to payback the initial funding amount.
 
 Some ISAs will not include a funding amount. Instead, the investor provides services to the student and expects to be repaid in the future based on the students future income. At [Sharpest Minds](https://www.sharpestminds.com/)  mentors are connected with "students" and help them start a career in data science. The mentors are then paid back through an ISA.
+
+### Meet PPL VC, Inc.
 
 ### Get in Touch
 
