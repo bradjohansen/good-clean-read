@@ -15,15 +15,33 @@ All of our students receive dedicated, one-on-one assistance, from one of our ta
 
 #### Resume Writing
 
+Don't just list your accomplishments. We will help you create a resume that stands out from the competition.
+
 #### Career Advice and Research
+
+Still not sure where you fit? Our team will help you discover your strengths and advise you on what industries and careers give you the life you want.
 
 #### Job Discovery
 
+Don't have time to sift through Linkedin, Indeed, your college career site and the thousands of other job sites? We will send you a curated list of jobs you qualify for and fit your goals.
+
 #### Job Applications
+
+Job applications can be stressful and every company has a different process. We can help you navigate the job application process.
+
+#### Interview Prep
+
+During the application process, our team will organize mock interviews to review standard interview questions and help you highlight your strengths. 
+
+Additionally, our team will meet with you one-on-one before every interview to ensure you are ready to hit it out of the park and get that job offer.
 
 #### Job Offer Review
 
+You did it. You got the job offer. But what is a 401(k)? And how do I compare offers that our in two different cities? Our team will help you evaluate your options so that you understand what job offer is the best one for you given your career goals.
+
 #### Negotiations
+
+It's the perfect job offer, except it doesn't pay enough? We will coach you through the negotiation process and make sure you are paid what you are worth.
 
 ### How much does it cost?
 
