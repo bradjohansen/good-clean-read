@@ -11,6 +11,8 @@ layout: default
 
 ### Our Services
 
+All of our students receive dedicated, one-on-one assistance, from one of our talented career coaches. Our coaches will work students to understand their career goals, and map their strengths and weaknesses to potential jobs.
+
 #### Resume Writing
 
 #### Career Advice and Research
@@ -25,7 +27,11 @@ layout: default
 
 ### How much does it cost?
 
-**Nothing** up front. When you hire us as a career coach we will work for free until you get a job. Let me say that again. We do not get paid for anything until you get a job. Instead, you agree to share with us **1%** of your income for 12 months.
+**Nothing** up front. When you hire us as a career coach we will work for free until you get a job. Let me say that again. We do not get paid for anything until you get a job. Instead, you agree to share with us at least **2%** of your gross income for 12 months.
+
+With a 2% income share rate and a starting salary of $50,000 you would pay a total of $1,000 or $83.33 per month.
+
+If you earn a starting salary of $100,000 you would pay $2,000 or $166.67 per month.
 
 The more you make, the more we make.
 
