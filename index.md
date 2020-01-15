@@ -6,12 +6,11 @@ layout: default
 
 - [Our Services](#our-services)
 - [How much does it cost?](#how-much-does-it-cost)
-- [Meet PPL VC, Inc.](#meet-ppl-vc-inc)
 - [Contact Us](#contact-us)
 
 ### Our Services
 
-All of our students receive dedicated, one-on-one assistance, from one of our talented career coaches. Our coaches will work students to understand their career goals, and map their strengths and weaknesses to potential jobs.
+All of our students receive dedicated, one-on-one assistance, from one of our talented career coaches. Our coaches will work with students to understand their career goals, map their strengths and weaknesses to potential jobs, and get them the best job that sets them up for success.
 
 #### Resume Writing
 
@@ -37,7 +36,7 @@ Additionally, our team will meet with you one-on-one before every interview to e
 
 #### Job Offer Review
 
-You did it. You got the job offer. But what is a 401(k)? And how do I compare offers that our in two different cities? Our team will help you evaluate your options so that you understand what job offer is the best one for you given your career goals.
+You did it. You got the job offer. But what is a 401(k)? And how do I compare offers that are in different cities? Our team will help you evaluate your options so that you understand what job offer is the best one for you given your career goals.
 
 #### Negotiations
 
@@ -59,7 +58,7 @@ Additionally, because this is a long-term relationship we will continue working 
 
 Instead of paying us an hourly rate, or a flat fee that doesn't incentivize us to get you the best job possible, we receive payment in the form of an income share agreement. An income share agreement is a contract between a recipient receiving either funds or services (such as yourself), and a provider delivering either funds or services. 
 
-If you want to learn more about income share agreements, check out two posts one of our career coaches wrote about their [typical terms](https://bradjohansen.com/texts/2019-09-15-introduction-to-income-share-agreements/) and [their benefits](https://bradjohansen.com/texts/2019-09-30-benefits-of-income-share-agreements/).
+If you want to learn more about income share agreements, one of our career coaches wrote about their [typical terms](https://bradjohansen.com/texts/2019-09-15-introduction-to-income-share-agreements/) and [their benefits](https://bradjohansen.com/texts/2019-09-30-benefits-of-income-share-agreements/).
 
 ### Get in Touch
 
