@@ -11,25 +11,31 @@ layout: default
 
 ### Our Services
 
-In this post, I want to introduce the idea of income share agreements and define their basic features.
+#### Resume Writing
 
-Fundamental to the idea of an income share agreement (ISAs) is that the amount of money you owe should be based on the amount of income you earn. In this way, ISAs differ from loans because they do not have a traditional interest rate. Instead, when a student receives funds as part of an ISA, they agree to repay the provider based on a percentage of their future income. 
+#### Career Advice and Research
 
-Interest in ISAs has grown [immensely](https://trends.google.com/trends/explore?date=all&geo=US&q=income%20share%20agreements) in the last five years. Purdue University launched the [Back a Boiler](https://purdue.edu/backaboiler/) program in 2016 to provide ISAs to students as an alternative to private and Parent PLUS student loans. [Lambda School](http://lambdaschool.com), a coding school launched in 2016, eschews an up-front tuition in favor of ISAs. 
+#### Job Discovery
 
-For the purpose of this post, I will refer to the receiver of the initial disbursement of funds as the "student," but that is not to suggest that the only use of income share agreements is for education funding. I will refer to the provider of the initial funds, and recipient of future income share payments, as the "investor". 
+#### Job Applications
+
+#### Job Offer Review
+
+#### Negotiations
 
 ### How much does it cost?
 
-Income share agreements typically include the following elements: the funding amount, the payback rate, the income floor, the payment cap, and the term length.
+**Nothing** up front. When you hire us as a career coach we will work for free until you get a job. Let me say that again. We do not get paid for anything until you get a job. Instead, you agree to share with us **1%** of your income for 12 months.
 
-#### Funding Amount
+The more you make, the more we make.
 
-This is the amount of funds provided by the investor to the student at the creation of the ISA. The funds could be used for anything that might increase your future income: tuition payments, a living stipend, or a project. The funding amount is different than the principal in a traditional loan. In a traditional loan, the borrower must payback the lender the principal plus interest. In an ISA, there is no obligation to payback the initial funding amount.
+Additionally, because this is a long-term relationship we will continue working with you to help navigate your [first 90 days](https://agileleanlife.com/the-first-90-days/) at work, your first performance review and more. 
 
-Some ISAs will not include a funding amount. Instead, the investor provides services to the student and expects to be repaid in the future based on the students future income. At [Sharpest Minds](https://www.sharpestminds.com/)  mentors are connected with "students" and help them start a career in data science. The mentors are then paid back through an ISA.
+#### Income Share Agreements
 
-### Meet PPL VC, Inc.
+Instead of paying us an hourly rate, or a flat fee that doesn't incentivize us to get you the best job possible, we receive payment in the form of an income share agreement. An income share agreement is a contract between a recipient receiving either funds or services (such as yourself), and a provider delivering either funds or services. 
+
+If you want to learn more about income share agreements, check out two posts one of our career coaches wrote about their [typical terms](https://bradjohansen.com/texts/2019-09-15-introduction-to-income-share-agreements/) and [their benefits](https://bradjohansen.com/texts/2019-09-30-benefits-of-income-share-agreements/).
 
 ### Get in Touch
 
