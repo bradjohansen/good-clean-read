@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Career coaches that invest in you
+## Graduating soon? Pay nothing upfront and receive private, one-on-one career coaching 
 
 - [Our Services](#our-services)
 - [How much does it cost?](#how-much-does-it-cost)
