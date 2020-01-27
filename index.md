@@ -5,8 +5,8 @@ layout: default
 ## Graduating soon? Pay nothing upfront and receive private, one-on-one career coaching 
 
 - [Our Services](#our-services)
-- [How much does it cost?](#how-much-does-it-cost)
-- [Contact Us](#contact-us)
+- [Pricing](#how-much-does-it-cost)
+- [Get in Touch](#get-in-touch)
 
 ### Our Services
 
